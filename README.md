@@ -8,6 +8,14 @@ The materials are designed specifically for students enrolled in the course, but
 
 Each lab is designed to follow the pace of the corresponding lecture. Accordingly, the theoretical lecture materials are complemented by hands-on lab sessions, where students implement, visualize, and experiment with the same concepts covered in class.
 
+## Python Introduction
+
+| # | Name | Open in Colab |
+|---|------|----------------|
+| 01 | Python Programming Introduction - Part 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Astarakee/isa-su/blob/main/python_intro/pt_intro1.ipynb) |
+| 02 | Python Programming Introduction - Part 2: NumPy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Astarakee/isa-su/blob/main/python_intro/pt_intro2.ipynb) |
+| 03 | Python Programming Introduction - Part 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Astarakee/isa-su/blob/main/python_intro/pt_intro3.ipynb) |
+
 ## Labs
 
 | # | Lab | Open in Colab |
