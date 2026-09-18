@@ -24,6 +24,7 @@ Each lab is designed to follow the pace of the corresponding lecture. Accordingl
 | 02 | 2D Image Fundamentals and Geometric Transformations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Astarakee/isa-su/blob/main/labs/02_Transforms_ImageFundamentals.ipynb) |
 | 03 | Spatial Domain Image Enhancement and Filtering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Astarakee/isa-su/blob/main/labs/03_SpatialDomainFiltering.ipynb) |
 | 04 | Frequency Domain Analysis and Filtering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Astarakee/isa-su/blob/main/labs/04_FrequencyDomainFiltering.ipynb) |
+| 05 | Color Image Processing and Vector-Valued Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Astarakee/isa-su/blob/main/labs/05_ColorImageProcessing.ipynb) |
 
 More labs will be added session by session as the course progresses.
 
