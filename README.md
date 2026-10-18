@@ -26,6 +26,9 @@ Each lab is designed to follow the pace of the corresponding lecture. Accordingl
 | 04 | Frequency Domain Analysis and Filtering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Astarakee/isa-su/blob/main/labs/04_FrequencyDomainFiltering.ipynb) |
 | 05 | Color Image Processing and Vector-Valued Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Astarakee/isa-su/blob/main/labs/05_ColorImageProcessing.ipynb) |
 | 06 | Image Compression, Information Theory, and Transform Coding | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Astarakee/isa-su/blob/main/labs/06_ImageCompression.ipynb) |
+| 07 | Mathematical Morphology and Non-Linear Spatial Filtering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Astarakee/isa-su/blob/main/labs/07_MathematicalMorphology.ipynb) |
+| 08 | Image Segmentation and Edge Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Astarakee/isa-su/blob/main/labs/08_ImageSegmentation.ipynb) |
+| 09 | Variational Segmentation, Level Sets, and Graph Optimization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Astarakee/isa-su/blob/main/labs/09_VariationalSegmentation.ipynb) |
 
 More labs will be added session by session as the course progresses.
 
