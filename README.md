@@ -29,6 +29,7 @@ Each lab is designed to follow the pace of the corresponding lecture. Accordingl
 | 07 | Mathematical Morphology and Non-Linear Spatial Filtering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Astarakee/isa-su/blob/main/labs/07_MathematicalMorphology.ipynb) |
 | 08 | Image Segmentation and Edge Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Astarakee/isa-su/blob/main/labs/08_ImageSegmentation.ipynb) |
 | 09 | Variational Segmentation, Level Sets, and Graph Optimization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Astarakee/isa-su/blob/main/labs/09_VariationalSegmentation.ipynb) |
+| 10 | Medical Image Formats (DICOM) and Segmentation Evaluation Metrics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Astarakee/isa-su/blob/main/labs/10_DICOM-metric.ipynb) |
 
 More labs will be added session by session as the course progresses.
 
